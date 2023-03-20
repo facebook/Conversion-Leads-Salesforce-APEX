@@ -8,5 +8,6 @@ For more about conversion leads, see: https://developers.facebook.com/docs/marke
 The guide can be found [here](https://github.com/facebook/Conversion-Leads-Salesforce-APEX/blob/main/Salesforce%20Apex%20Triggers%20to%20Enable%20Conversion%20Leads%20API%20Updates.pdf).
 
 [MIT License](https://github.com/facebook/Conversion-Leads-Salesforce-APEX/blob/main/LICENSE.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
